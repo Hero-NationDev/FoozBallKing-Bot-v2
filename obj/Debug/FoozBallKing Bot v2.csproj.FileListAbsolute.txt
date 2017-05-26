@@ -1,0 +1,68 @@
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\FoozBallKing Bot v2.exe.config
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\FoozBallKing Bot v2.exe
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\FoozBallKing Bot v2.pdb
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Discord.Net.Audio.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Discord.Net.Commands.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Discord.Net.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Discord.Net.Modules.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Discord.OAuth2.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.Authentication.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.Authentication.OAuth.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.DataProtection.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.Http.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.Extensions.Options.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.Extensions.WebEncoders.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.Net.Http.Headers.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Newtonsoft.Json.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Nito.AsyncEx.Concurrent.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Nito.AsyncEx.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\RestSharp.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\System.Buffers.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\System.Text.Encodings.Web.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\WebSocket4Net.dll
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Discord.OAuth2.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.Authentication.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.Authentication.OAuth.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.DataProtection.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.Http.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.Extensions.Options.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.Extensions.WebEncoders.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Microsoft.Net.Http.Headers.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Newtonsoft.Json.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Nito.AsyncEx.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Nito.AsyncEx.Concurrent.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\RestSharp.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\bin\Debug\System.Text.Encodings.Web.xml
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\obj\Debug\FoozBallKing Bot v2.exe
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\obj\Debug\FoozBallKing Bot v2.pdb
+G:\New folder\Animation\FBK Bot v2\FoozBallKing Bot v2\FoozBallKing Bot v2\obj\Debug\FoozBallKing Bot v2.csprojResolveAssemblyReference.cache
